@@ -14,7 +14,15 @@
   "author": "Ken Owashi <ken.owashi.98@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenowa98/platzi-random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kenowa98/platzi-random-messages/issues"
+  },
+  "homepage": "https://github.com/kenowa98/platzi-random-messages#readme"
 }
