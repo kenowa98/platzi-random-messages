@@ -1,12 +1,13 @@
 const messages = [
-    "Óscar",
-    "Ana",
-    "Nicolay",
-    "Yesica",
-    "Diego",
-    "Laura",
-    "Carolina",
-    "Paulina"
+    "Dólar americano - USD",
+    "Euro - EUR",
+    "Libra esterlina - GBP",
+    "Franco suizo - CHF",
+    "Yen japonés - JPY",
+    "Yuan chino - CNY",
+    "Real brasileño - BRL",
+    "Rublo ruso - RUB",
+    "Peso colombiano - COP"
 ];
 
 const randomMsg = () => {

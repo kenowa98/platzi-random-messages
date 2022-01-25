@@ -1,7 +1,7 @@
 {
   "name": "random-messages-kenowa",
   "version": "1.0.1",
-  "description": "random de nombres",
+  "description": "random de monedas del mundo",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
